@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ApplicationClassLibraryBuisnessLogics
+namespace ModelDomainClassLibrary.Modal
 {
-    public class Class1
+    internal class Post
     {
     }
 }
